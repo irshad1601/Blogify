@@ -33,19 +33,20 @@ This blog web application enables users to create, edit, and manage blog posts. 
 # Application Screenshots
 
 - Signin page
-<img src="src/assets/login.jpg" alt="Description" />
+<img src="https://raw.githubusercontent.com/irshad1601/Blogify/refs/heads/main/src/assets/Signin.JPG" alt="Signin page" />
 
 
 - Signup page
-- <img src="src/assets/register.jpg" alt="Description" />
+ <img src="https://raw.githubusercontent.com/irshad1601/Blogify/refs/heads/main/src/assets/Signup.JPG" alt="Signup page" />
 
 - Home page
-<img src="src/assets/message.jpg" alt="Description" />
+<img src="https://raw.githubusercontent.com/irshad1601/Blogify/refs/heads/main/src/assets/Home.JPG" alt="Home page" />
 
 - AddPost page
+<img src="https://raw.githubusercontent.com/irshad1601/Blogify/refs/heads/main/src/assets/AddPost.JPG" alt="AddPost page" />
 
 - Edit/Delete post page
-
+<img src="https://raw.githubusercontent.com/irshad1601/Blogify/refs/heads/main/src/assets/Edit-Delete post.JPG" alt="Edit/Delete post page" />
 
  # Future Enhancements
 ### 1. Comment Section:
