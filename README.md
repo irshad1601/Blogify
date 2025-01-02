@@ -1,6 +1,5 @@
-
 # Blogify - Blog Web Application
-
+# Live Demo:- https://blogify-rosy.vercel.app/
 
 # Overview
 This blog web application enables users to create, edit, and manage blog posts. It provides essential features like user authentication, adding posts, editing/deleting posts, and logging out. Built using ReactJS for the frontend and styled with Tailwind CSS, the application leverages Appwrite as the backend-as-a-service (BaaS) for secure and efficient functionality.
